@@ -3,3 +3,5 @@
 def mothers_day(name = Mom)
   puts "Happy Mother's Day,3 #{name}!"
 end
+
+mothers_day Geeta
